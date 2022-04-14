@@ -52,7 +52,7 @@
   },
   "devDependencies": {
     "babel-preset-es2015": "^6.5.0",
-    "babel-register": "^6.5.1",
+    "babel-register": "^7.17.7",
     "coveralls": "^3.0.3",
     "eslint": "^8.13.0",
     "eslint-config-gulp": "^3.0.1",
