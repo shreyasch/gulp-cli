@@ -55,7 +55,7 @@ var cli = new Liftoff({
 });
 
 var usage =
-  '\n' + ansi.bold('Usage: $0') +
+  '\n' + ansi.bold('Usage:') +
   ' gulp ' + ansi.blue('[options]') + ' tasks';
 
 var parser = yargs.usage(usage, cliOptions);
