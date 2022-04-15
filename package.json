@@ -48,17 +48,17 @@
     "replace-homedir": "^1.0.0",
     "semver-greatest-satisfied-range": "^1.1.0",
     "v8flags": "^3.2.0",
-    "yargs": "^12.0.2"
+    "yargs": "^16.2.0"
   },
   "devDependencies": {
     "babel-preset-es2015": "^6.5.0",
     "babel-register": "^7.17.7",
     "coveralls": "^3.0.3",
     "eslint": "^8.13.0",
-    "eslint-config-gulp": "^3.0.1",
+    "eslint-config-gulp": "^5.0.1",
     "expect": "^1.20.2",
     "gulp": "https://github.com/shreyasch/gulp.git",
-    "gulp-test-tools": "^0.6.1",
+    "gulp-test-tools": "^0.6.2",
     "marked-man": "^0.2.1",
     "mocha": "^3.2.0",
     "nyc": "^13.3.0",
